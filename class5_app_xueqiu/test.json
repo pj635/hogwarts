@@ -1,0 +1,4610 @@
+{
+  "data": {
+    "last_close": 3409.31,
+    "after": [],
+    "items": [
+      {
+        "current": 3450.55,
+        "volume": 523530665,
+        "avg_price": 3449.6,
+        "chg": 41.24,
+        "percent": 1.21,
+        "timestamp": 1626053400000,
+        "amount": 10231549943,
+        "high": 3456.1,
+        "low": 3409.31,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 523530665,
+          "volume_sum_last": 432976969
+        }
+      },
+      {
+        "current": 3447.59,
+        "volume": 262494184,
+        "avg_price": 3447.57,
+        "chg": 38.28,
+        "percent": 1.12,
+        "timestamp": 1626053460000,
+        "amount": 4853159519,
+        "high": 3453.33,
+        "low": 3445.55,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 786024849,
+          "volume_sum_last": 665722536
+        }
+      },
+      {
+        "current": 3444.21,
+        "volume": 233376787,
+        "avg_price": 3444.21,
+        "chg": 34.9,
+        "percent": 1.02,
+        "timestamp": 1626053520000,
+        "amount": 4311356812,
+        "high": 3449.62,
+        "low": 3443.71,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 1019401636,
+          "volume_sum_last": 847872453
+        }
+      },
+      {
+        "current": 3441.78,
+        "volume": 231752263,
+        "avg_price": 3441.52,
+        "chg": 32.47,
+        "percent": 0.95,
+        "timestamp": 1626053580000,
+        "amount": 4272676951,
+        "high": 3445.96,
+        "low": 3441.52,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 1251153899,
+          "volume_sum_last": 1037370972
+        }
+      },
+      {
+        "current": 3426.89,
+        "volume": 222274206,
+        "avg_price": 3427.87,
+        "chg": 17.58,
+        "percent": 0.52,
+        "timestamp": 1626053640000,
+        "amount": 3974401707,
+        "high": 3442.29,
+        "low": 3426.89,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 1473428105,
+          "volume_sum_last": 1215059787
+        }
+      },
+      {
+        "current": 3428.67,
+        "volume": 217547658,
+        "avg_price": 3428.28,
+        "chg": 19.36,
+        "percent": 0.57,
+        "timestamp": 1626053700000,
+        "amount": 3875775900,
+        "high": 3430.24,
+        "low": 3426.01,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 1690975763,
+          "volume_sum_last": 1382266966
+        }
+      },
+      {
+        "current": 3445,
+        "volume": 191000925,
+        "avg_price": 3443.96,
+        "chg": 35.69,
+        "percent": 1.05,
+        "timestamp": 1626053760000,
+        "amount": 3533131082,
+        "high": 3445,
+        "low": 3429.36,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 1881976688,
+          "volume_sum_last": 1548740393
+        }
+      },
+      {
+        "current": 3443.64,
+        "volume": 186979970,
+        "avg_price": 3442.89,
+        "chg": 34.33,
+        "percent": 1.01,
+        "timestamp": 1626053820000,
+        "amount": 3279093394,
+        "high": 3446.36,
+        "low": 3441.45,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 2068956658,
+          "volume_sum_last": 1704504009
+        }
+      },
+      {
+        "current": 3443.79,
+        "volume": 173976818,
+        "avg_price": 3445.18,
+        "chg": 34.48,
+        "percent": 1.01,
+        "timestamp": 1626053880000,
+        "amount": 3128051110,
+        "high": 3448.36,
+        "low": 3443.79,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 2242933476,
+          "volume_sum_last": 1851502285
+        }
+      },
+      {
+        "current": 3462.85,
+        "volume": 155201813,
+        "avg_price": 3461.25,
+        "chg": 53.54,
+        "percent": 1.57,
+        "timestamp": 1626053940000,
+        "amount": 2964958397,
+        "high": 3462.85,
+        "low": 3443.74,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 2398135289,
+          "volume_sum_last": 1985012450
+        }
+      },
+      {
+        "current": 3459.42,
+        "volume": 158654221,
+        "avg_price": 3459.42,
+        "chg": 50.11,
+        "percent": 1.47,
+        "timestamp": 1626054000000,
+        "amount": 3021905854,
+        "high": 3466,
+        "low": 3456.59,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 2556789510,
+          "volume_sum_last": 2129314253
+        }
+      },
+      {
+        "current": 3466.74,
+        "volume": 143984984,
+        "avg_price": 3466.74,
+        "chg": 57.43,
+        "percent": 1.68,
+        "timestamp": 1626054060000,
+        "amount": 2719181714,
+        "high": 3466.76,
+        "low": 3459.39,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 2700774494,
+          "volume_sum_last": 2266065807
+        }
+      },
+      {
+        "current": 3463.48,
+        "volume": 137840580,
+        "avg_price": 3463.48,
+        "chg": 54.17,
+        "percent": 1.59,
+        "timestamp": 1626054120000,
+        "amount": 2507701303,
+        "high": 3467.56,
+        "low": 3462.96,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 2838615074,
+          "volume_sum_last": 2397606663
+        }
+      },
+      {
+        "current": 3460.51,
+        "volume": 133363995,
+        "avg_price": 3460.51,
+        "chg": 51.2,
+        "percent": 1.5,
+        "timestamp": 1626054180000,
+        "amount": 2421286839,
+        "high": 3462.92,
+        "low": 3460.51,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 2971979069,
+          "volume_sum_last": 2534217161
+        }
+      },
+      {
+        "current": 3457.19,
+        "volume": 148534695,
+        "avg_price": 3458.36,
+        "chg": 47.88,
+        "percent": 1.4,
+        "timestamp": 1626054240000,
+        "amount": 2480516612,
+        "high": 3460.04,
+        "low": 3457.19,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 3120513764,
+          "volume_sum_last": 2645324702
+        }
+      },
+      {
+        "current": 3448.83,
+        "volume": 146979886,
+        "avg_price": 3448.83,
+        "chg": 39.52,
+        "percent": 1.16,
+        "timestamp": 1626054300000,
+        "amount": 2615463143,
+        "high": 3457.09,
+        "low": 3448.72,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 3267493650,
+          "volume_sum_last": 2770284476
+        }
+      },
+      {
+        "current": 3461.91,
+        "volume": 142466412,
+        "avg_price": 3461.91,
+        "chg": 52.6,
+        "percent": 1.54,
+        "timestamp": 1626054360000,
+        "amount": 2678200960,
+        "high": 3461.96,
+        "low": 3447.15,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 3409960062,
+          "volume_sum_last": 2887518559
+        }
+      },
+      {
+        "current": 3460.78,
+        "volume": 110985101,
+        "avg_price": 3461.14,
+        "chg": 51.47,
+        "percent": 1.51,
+        "timestamp": 1626054420000,
+        "amount": 2091755935,
+        "high": 3463.64,
+        "low": 3459.36,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 3520945163,
+          "volume_sum_last": 2995897755
+        }
+      },
+      {
+        "current": 3460.78,
+        "volume": 115571491,
+        "avg_price": 3460.78,
+        "chg": 51.47,
+        "percent": 1.51,
+        "timestamp": 1626054480000,
+        "amount": 2144529683,
+        "high": 3463.64,
+        "low": 3459.1,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 3636516654,
+          "volume_sum_last": 3106885274
+        }
+      },
+      {
+        "current": 3464.9,
+        "volume": 112245873,
+        "avg_price": 3464.97,
+        "chg": 55.59,
+        "percent": 1.63,
+        "timestamp": 1626054540000,
+        "amount": 2203937994,
+        "high": 3467.24,
+        "low": 3461.58,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 3748762527,
+          "volume_sum_last": 3224101508
+        }
+      },
+      {
+        "current": 3456.52,
+        "volume": 130763292,
+        "avg_price": 3458.49,
+        "chg": 47.21,
+        "percent": 1.38,
+        "timestamp": 1626054600000,
+        "amount": 2441195246,
+        "high": 3464.87,
+        "low": 3456.52,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 3879525819,
+          "volume_sum_last": 3353536812
+        }
+      },
+      {
+        "current": 3454.45,
+        "volume": 130792106,
+        "avg_price": 3455.9,
+        "chg": 45.14,
+        "percent": 1.32,
+        "timestamp": 1626054660000,
+        "amount": 2312848159,
+        "high": 3459.06,
+        "low": 3454.02,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 4010317925,
+          "volume_sum_last": 3463177611
+        }
+      },
+      {
+        "current": 3455.83,
+        "volume": 117734291,
+        "avg_price": 3456.61,
+        "chg": 46.52,
+        "percent": 1.36,
+        "timestamp": 1626054720000,
+        "amount": 2104915418,
+        "high": 3457.06,
+        "low": 3453.01,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 4128052216,
+          "volume_sum_last": 3566959013
+        }
+      },
+      {
+        "current": 3464.12,
+        "volume": 119324288,
+        "avg_price": 3462.49,
+        "chg": 54.81,
+        "percent": 1.61,
+        "timestamp": 1626054780000,
+        "amount": 2073863318,
+        "high": 3464.12,
+        "low": 3455.66,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 4247376504,
+          "volume_sum_last": 3661009889
+        }
+      },
+      {
+        "current": 3467,
+        "volume": 118591655,
+        "avg_price": 3466.88,
+        "chg": 57.69,
+        "percent": 1.69,
+        "timestamp": 1626054840000,
+        "amount": 2051900200,
+        "high": 3467,
+        "low": 3462.82,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 4365968159,
+          "volume_sum_last": 3753737693
+        }
+      },
+      {
+        "current": 3471.18,
+        "volume": 118056339,
+        "avg_price": 3471.16,
+        "chg": 61.87,
+        "percent": 1.81,
+        "timestamp": 1626054900000,
+        "amount": 2133224160,
+        "high": 3471.18,
+        "low": 3467.4,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 4484024498,
+          "volume_sum_last": 3842093310
+        }
+      },
+      {
+        "current": 3465.87,
+        "volume": 112074024,
+        "avg_price": 3465.72,
+        "chg": 56.56,
+        "percent": 1.66,
+        "timestamp": 1626054960000,
+        "amount": 2156711413,
+        "high": 3470.57,
+        "low": 3464.87,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 4596098522,
+          "volume_sum_last": 3920108120
+        }
+      },
+      {
+        "current": 3468.58,
+        "volume": 115239732,
+        "avg_price": 3468.99,
+        "chg": 59.27,
+        "percent": 1.74,
+        "timestamp": 1626055020000,
+        "amount": 2264461751,
+        "high": 3468.99,
+        "low": 3464.31,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 4711338254,
+          "volume_sum_last": 4002524516
+        }
+      },
+      {
+        "current": 3473.13,
+        "volume": 106487433,
+        "avg_price": 3472.43,
+        "chg": 63.82,
+        "percent": 1.87,
+        "timestamp": 1626055080000,
+        "amount": 1988506397,
+        "high": 3473.13,
+        "low": 3467.65,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 4817825687,
+          "volume_sum_last": 4084112566
+        }
+      },
+      {
+        "current": 3476.13,
+        "volume": 100859006,
+        "avg_price": 3475.17,
+        "chg": 66.82,
+        "percent": 1.96,
+        "timestamp": 1626055140000,
+        "amount": 1942274053,
+        "high": 3476.13,
+        "low": 3472.37,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 4918684693,
+          "volume_sum_last": 4165992887
+        }
+      },
+      {
+        "current": 3485.57,
+        "volume": 112051985,
+        "avg_price": 3485.21,
+        "chg": 76.26,
+        "percent": 2.24,
+        "timestamp": 1626055200000,
+        "amount": 2193602872,
+        "high": 3485.57,
+        "low": 3475.8,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 5030736678,
+          "volume_sum_last": 4256618099
+        }
+      },
+      {
+        "current": 3484.76,
+        "volume": 99131386,
+        "avg_price": 3485.1,
+        "chg": 75.45,
+        "percent": 2.21,
+        "timestamp": 1626055260000,
+        "amount": 1981014105,
+        "high": 3486.01,
+        "low": 3483.6,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 5129868064,
+          "volume_sum_last": 4339993035
+        }
+      },
+      {
+        "current": 3488.11,
+        "volume": 96382305,
+        "avg_price": 3487.36,
+        "chg": 78.8,
+        "percent": 2.31,
+        "timestamp": 1626055320000,
+        "amount": 1865897466,
+        "high": 3488.11,
+        "low": 3484.73,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 5226250369,
+          "volume_sum_last": 4423674547
+        }
+      },
+      {
+        "current": 3491.32,
+        "volume": 86148038,
+        "avg_price": 3491.13,
+        "chg": 82.01,
+        "percent": 2.41,
+        "timestamp": 1626055380000,
+        "amount": 1775636920,
+        "high": 3491.86,
+        "low": 3487.89,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 5312398407,
+          "volume_sum_last": 4507171164
+        }
+      },
+      {
+        "current": 3492.63,
+        "volume": 82715379,
+        "avg_price": 3492.63,
+        "chg": 83.32,
+        "percent": 2.44,
+        "timestamp": 1626055440000,
+        "amount": 1734140999,
+        "high": 3494.36,
+        "low": 3491.14,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 5395113786,
+          "volume_sum_last": 4588216599
+        }
+      },
+      {
+        "current": 3495.62,
+        "volume": 85676094,
+        "avg_price": 3495.99,
+        "chg": 86.31,
+        "percent": 2.53,
+        "timestamp": 1626055500000,
+        "amount": 1744598908,
+        "high": 3496.03,
+        "low": 3493.52,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 5480789880,
+          "volume_sum_last": 4669252324
+        }
+      },
+      {
+        "current": 3501.65,
+        "volume": 86849551,
+        "avg_price": 3501.65,
+        "chg": 92.34,
+        "percent": 2.71,
+        "timestamp": 1626055560000,
+        "amount": 1782180941,
+        "high": 3501.77,
+        "low": 3496.52,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 5567639431,
+          "volume_sum_last": 4749121859
+        }
+      },
+      {
+        "current": 3506.29,
+        "volume": 97429985,
+        "avg_price": 3506.29,
+        "chg": 96.98,
+        "percent": 2.84,
+        "timestamp": 1626055620000,
+        "amount": 1854776045,
+        "high": 3506.52,
+        "low": 3501.7,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 5665069416,
+          "volume_sum_last": 4835491081
+        }
+      },
+      {
+        "current": 3511.01,
+        "volume": 87469728,
+        "avg_price": 3511.01,
+        "chg": 101.7,
+        "percent": 2.98,
+        "timestamp": 1626055680000,
+        "amount": 1888122952,
+        "high": 3511.1,
+        "low": 3506.07,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 5752539144,
+          "volume_sum_last": 4908339779
+        }
+      },
+      {
+        "current": 3510.17,
+        "volume": 83560316,
+        "avg_price": 3511.11,
+        "chg": 100.86,
+        "percent": 2.96,
+        "timestamp": 1626055740000,
+        "amount": 1846908512,
+        "high": 3514.45,
+        "low": 3510.17,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 5836099460,
+          "volume_sum_last": 4973551224
+        }
+      },
+      {
+        "current": 3514.77,
+        "volume": 89898025,
+        "avg_price": 3514.77,
+        "chg": 105.46,
+        "percent": 3.09,
+        "timestamp": 1626055800000,
+        "amount": 1897900338,
+        "high": 3514.77,
+        "low": 3510.17,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 5925997485,
+          "volume_sum_last": 5046776202
+        }
+      },
+      {
+        "current": 3512.87,
+        "volume": 90816743,
+        "avg_price": 3512.25,
+        "chg": 103.56,
+        "percent": 3.04,
+        "timestamp": 1626055860000,
+        "amount": 1919974639,
+        "high": 3515.91,
+        "low": 3510.88,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6016814228,
+          "volume_sum_last": 5113121150
+        }
+      },
+      {
+        "current": 3517.07,
+        "volume": 80297995,
+        "avg_price": 3517.44,
+        "chg": 107.76,
+        "percent": 3.16,
+        "timestamp": 1626055920000,
+        "amount": 1681314042,
+        "high": 3517.44,
+        "low": 3512.77,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6097112223,
+          "volume_sum_last": 5171526672
+        }
+      },
+      {
+        "current": 3519.71,
+        "volume": 79780957,
+        "avg_price": 3519.28,
+        "chg": 110.4,
+        "percent": 3.24,
+        "timestamp": 1626055980000,
+        "amount": 1583530460,
+        "high": 3519.71,
+        "low": 3516.96,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6176893180,
+          "volume_sum_last": 5231285755
+        }
+      },
+      {
+        "current": 3520.24,
+        "volume": 77576227,
+        "avg_price": 3519.86,
+        "chg": 110.93,
+        "percent": 3.25,
+        "timestamp": 1626056040000,
+        "amount": 1495455380,
+        "high": 3520.36,
+        "low": 3519.3,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6254469407,
+          "volume_sum_last": 5296469175
+        }
+      },
+      {
+        "current": 3512.95,
+        "volume": 77747250,
+        "avg_price": 3512.65,
+        "chg": 103.64,
+        "percent": 3.04,
+        "timestamp": 1626056100000,
+        "amount": 1488468765,
+        "high": 3519.43,
+        "low": 3512.65,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6332216657,
+          "volume_sum_last": 5356047132
+        }
+      },
+      {
+        "current": 3514.42,
+        "volume": 70900476,
+        "avg_price": 3514.42,
+        "chg": 105.11,
+        "percent": 3.08,
+        "timestamp": 1626056160000,
+        "amount": 1346907230,
+        "high": 3514.7,
+        "low": 3512.7,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6403117133,
+          "volume_sum_last": 5417115822
+        }
+      },
+      {
+        "current": 3520.64,
+        "volume": 63213685,
+        "avg_price": 3520.64,
+        "chg": 111.33,
+        "percent": 3.27,
+        "timestamp": 1626056220000,
+        "amount": 1329906928,
+        "high": 3520.64,
+        "low": 3514.19,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6466330818,
+          "volume_sum_last": 5472879119
+        }
+      },
+      {
+        "current": 3519.19,
+        "volume": 62822931,
+        "avg_price": 3518.69,
+        "chg": 109.88,
+        "percent": 3.22,
+        "timestamp": 1626056280000,
+        "amount": 1304395781,
+        "high": 3522.45,
+        "low": 3518.69,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6529153749,
+          "volume_sum_last": 5529170160
+        }
+      },
+      {
+        "current": 3521.6,
+        "volume": 61604440,
+        "avg_price": 3520.93,
+        "chg": 112.29,
+        "percent": 3.29,
+        "timestamp": 1626056340000,
+        "amount": 1249520152,
+        "high": 3521.6,
+        "low": 3517.98,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6590758189,
+          "volume_sum_last": 5584052846
+        }
+      },
+      {
+        "current": 3529.06,
+        "volume": 72825013,
+        "avg_price": 3529.2,
+        "chg": 119.75,
+        "percent": 3.51,
+        "timestamp": 1626056400000,
+        "amount": 1696379881,
+        "high": 3529.25,
+        "low": 3521.43,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6663583202,
+          "volume_sum_last": 5644478501
+        }
+      },
+      {
+        "current": 3535.08,
+        "volume": 67095929,
+        "avg_price": 3534.66,
+        "chg": 125.77,
+        "percent": 3.69,
+        "timestamp": 1626056460000,
+        "amount": 1389173616,
+        "high": 3535.08,
+        "low": 3529.71,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6730679131,
+          "volume_sum_last": 5703212438
+        }
+      },
+      {
+        "current": 3529.32,
+        "volume": 69704026,
+        "avg_price": 3529.58,
+        "chg": 120.01,
+        "percent": 3.52,
+        "timestamp": 1626056520000,
+        "amount": 1576020080,
+        "high": 3535.73,
+        "low": 3528.84,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6800383157,
+          "volume_sum_last": 5759325955
+        }
+      },
+      {
+        "current": 3535.63,
+        "volume": 62826844,
+        "avg_price": 3535.85,
+        "chg": 126.32,
+        "percent": 3.71,
+        "timestamp": 1626056580000,
+        "amount": 1334151733,
+        "high": 3535.85,
+        "low": 3529.77,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6863210001,
+          "volume_sum_last": 5810805099
+        }
+      },
+      {
+        "current": 3540.43,
+        "volume": 59725657,
+        "avg_price": 3539.94,
+        "chg": 131.12,
+        "percent": 3.85,
+        "timestamp": 1626056640000,
+        "amount": 1250296319,
+        "high": 3540.43,
+        "low": 3535.27,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6922935658,
+          "volume_sum_last": 5859388388
+        }
+      },
+      {
+        "current": 3540.38,
+        "volume": 65775056,
+        "avg_price": 3540.89,
+        "chg": 131.07,
+        "percent": 3.84,
+        "timestamp": 1626056700000,
+        "amount": 1458013111,
+        "high": 3541.63,
+        "low": 3540.31,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 6988710714,
+          "volume_sum_last": 5907469828
+        }
+      },
+      {
+        "current": 3538.29,
+        "volume": 62539253,
+        "avg_price": 3538.8,
+        "chg": 128.98,
+        "percent": 3.78,
+        "timestamp": 1626056760000,
+        "amount": 1384435746,
+        "high": 3541.53,
+        "low": 3538.29,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7051249967,
+          "volume_sum_last": 5957162536
+        }
+      },
+      {
+        "current": 3538.17,
+        "volume": 53582598,
+        "avg_price": 3538.27,
+        "chg": 128.86,
+        "percent": 3.78,
+        "timestamp": 1626056820000,
+        "amount": 1079570541,
+        "high": 3539.81,
+        "low": 3538.17,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7104832565,
+          "volume_sum_last": 6003621870
+        }
+      },
+      {
+        "current": 3534.63,
+        "volume": 53689153,
+        "avg_price": 3534.58,
+        "chg": 125.32,
+        "percent": 3.68,
+        "timestamp": 1626056880000,
+        "amount": 1110261507,
+        "high": 3538.05,
+        "low": 3534.58,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7158521718,
+          "volume_sum_last": 6049116041
+        }
+      },
+      {
+        "current": 3531.48,
+        "volume": 54766786,
+        "avg_price": 3531.99,
+        "chg": 122.17,
+        "percent": 3.58,
+        "timestamp": 1626056940000,
+        "amount": 1120149130,
+        "high": 3534.56,
+        "low": 3531.48,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7213288504,
+          "volume_sum_last": 6095953763
+        }
+      },
+      {
+        "current": 3533.91,
+        "volume": 60257888,
+        "avg_price": 3534.33,
+        "chg": 124.6,
+        "percent": 3.65,
+        "timestamp": 1626057000000,
+        "amount": 1258249701,
+        "high": 3534.33,
+        "low": 3531.27,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7273546392,
+          "volume_sum_last": 6152343660
+        }
+      },
+      {
+        "current": 3534.89,
+        "volume": 51318039,
+        "avg_price": 3534.44,
+        "chg": 125.58,
+        "percent": 3.68,
+        "timestamp": 1626057060000,
+        "amount": 967027864,
+        "high": 3534.89,
+        "low": 3533.01,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7324864431,
+          "volume_sum_last": 6203537632
+        }
+      },
+      {
+        "current": 3539.33,
+        "volume": 55708918,
+        "avg_price": 3538.44,
+        "chg": 130.02,
+        "percent": 3.81,
+        "timestamp": 1626057120000,
+        "amount": 1113687455,
+        "high": 3539.33,
+        "low": 3534.98,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7380573349,
+          "volume_sum_last": 6249834049
+        }
+      },
+      {
+        "current": 3535.04,
+        "volume": 55151754,
+        "avg_price": 3535.78,
+        "chg": 125.73,
+        "percent": 3.69,
+        "timestamp": 1626057180000,
+        "amount": 1122593263,
+        "high": 3539.64,
+        "low": 3535.04,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7435725103,
+          "volume_sum_last": 6296178196
+        }
+      },
+      {
+        "current": 3530.81,
+        "volume": 56962179,
+        "avg_price": 3530.96,
+        "chg": 121.5,
+        "percent": 3.56,
+        "timestamp": 1626057240000,
+        "amount": 1086290450,
+        "high": 3534.95,
+        "low": 3530.81,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7492687282,
+          "volume_sum_last": 6343289490
+        }
+      },
+      {
+        "current": 3526.39,
+        "volume": 55364368,
+        "avg_price": 3526.94,
+        "chg": 117.08,
+        "percent": 3.43,
+        "timestamp": 1626057300000,
+        "amount": 1068042669,
+        "high": 3530.99,
+        "low": 3526.39,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7548051650,
+          "volume_sum_last": 6394721553
+        }
+      },
+      {
+        "current": 3521.97,
+        "volume": 55533178,
+        "avg_price": 3522.08,
+        "chg": 112.66,
+        "percent": 3.3,
+        "timestamp": 1626057360000,
+        "amount": 1113920725,
+        "high": 3526.37,
+        "low": 3521.97,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7603584828,
+          "volume_sum_last": 6445355058
+        }
+      },
+      {
+        "current": 3522.89,
+        "volume": 55789194,
+        "avg_price": 3523.36,
+        "chg": 113.58,
+        "percent": 3.33,
+        "timestamp": 1626057420000,
+        "amount": 1077548292,
+        "high": 3523.61,
+        "low": 3520.98,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7659374022,
+          "volume_sum_last": 6490640619
+        }
+      },
+      {
+        "current": 3520.37,
+        "volume": 53020371,
+        "avg_price": 3520.52,
+        "chg": 111.06,
+        "percent": 3.26,
+        "timestamp": 1626057480000,
+        "amount": 974685914,
+        "high": 3523.34,
+        "low": 3520.37,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7712394393,
+          "volume_sum_last": 6535406014
+        }
+      },
+      {
+        "current": 3514.93,
+        "volume": 52909544,
+        "avg_price": 3515.6,
+        "chg": 105.62,
+        "percent": 3.1,
+        "timestamp": 1626057540000,
+        "amount": 1054696408,
+        "high": 3520.08,
+        "low": 3514.93,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7765303937,
+          "volume_sum_last": 6576344050
+        }
+      },
+      {
+        "current": 3521.98,
+        "volume": 63381733,
+        "avg_price": 3522.16,
+        "chg": 112.67,
+        "percent": 3.3,
+        "timestamp": 1626057600000,
+        "amount": 1217308874,
+        "high": 3522.16,
+        "low": 3514.14,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7828685670,
+          "volume_sum_last": 6621587028
+        }
+      },
+      {
+        "current": 3526.15,
+        "volume": 61750932,
+        "avg_price": 3526.1,
+        "chg": 116.84,
+        "percent": 3.43,
+        "timestamp": 1626057660000,
+        "amount": 1126621554,
+        "high": 3526.15,
+        "low": 3522.14,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7890436602,
+          "volume_sum_last": 6664334096
+        }
+      },
+      {
+        "current": 3528.36,
+        "volume": 66844776,
+        "avg_price": 3528.83,
+        "chg": 119.05,
+        "percent": 3.49,
+        "timestamp": 1626057720000,
+        "amount": 1219347275,
+        "high": 3529.19,
+        "low": 3525.98,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 7957281378,
+          "volume_sum_last": 6706988438
+        }
+      },
+      {
+        "current": 3528.52,
+        "volume": 51083452,
+        "avg_price": 3528.64,
+        "chg": 119.21,
+        "percent": 3.5,
+        "timestamp": 1626057780000,
+        "amount": 959849885,
+        "high": 3528.91,
+        "low": 3527.83,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8008364830,
+          "volume_sum_last": 6744486274
+        }
+      },
+      {
+        "current": 3533.42,
+        "volume": 58488917,
+        "avg_price": 3533.42,
+        "chg": 124.11,
+        "percent": 3.64,
+        "timestamp": 1626057840000,
+        "amount": 1154758637,
+        "high": 3533.89,
+        "low": 3529.07,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8066853747,
+          "volume_sum_last": 6780379625
+        }
+      },
+      {
+        "current": 3534.55,
+        "volume": 54171331,
+        "avg_price": 3534.6,
+        "chg": 125.24,
+        "percent": 3.67,
+        "timestamp": 1626057900000,
+        "amount": 998672717,
+        "high": 3534.66,
+        "low": 3533.35,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8121025078,
+          "volume_sum_last": 6817315604
+        }
+      },
+      {
+        "current": 3531.4,
+        "volume": 56766143,
+        "avg_price": 3532.05,
+        "chg": 122.09,
+        "percent": 3.58,
+        "timestamp": 1626057960000,
+        "amount": 1048920332,
+        "high": 3534.8,
+        "low": 3531.4,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8177791221,
+          "volume_sum_last": 6854923944
+        }
+      },
+      {
+        "current": 3530.26,
+        "volume": 52466211,
+        "avg_price": 3529.87,
+        "chg": 120.95,
+        "percent": 3.55,
+        "timestamp": 1626058020000,
+        "amount": 948863940,
+        "high": 3531.74,
+        "low": 3528.5,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8230257432,
+          "volume_sum_last": 6892336904
+        }
+      },
+      {
+        "current": 3534.14,
+        "volume": 58518008,
+        "avg_price": 3533.47,
+        "chg": 124.83,
+        "percent": 3.66,
+        "timestamp": 1626058080000,
+        "amount": 1124727484,
+        "high": 3534.14,
+        "low": 3529.33,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8288775440,
+          "volume_sum_last": 6932403384
+        }
+      },
+      {
+        "current": 3536.71,
+        "volume": 58431394,
+        "avg_price": 3536.8,
+        "chg": 127.4,
+        "percent": 3.74,
+        "timestamp": 1626058140000,
+        "amount": 1189416788,
+        "high": 3538,
+        "low": 3534.2,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8347206834,
+          "volume_sum_last": 6967308748
+        }
+      },
+      {
+        "current": 3539.49,
+        "volume": 63194328,
+        "avg_price": 3540.34,
+        "chg": 130.18,
+        "percent": 3.82,
+        "timestamp": 1626058200000,
+        "amount": 1238243000,
+        "high": 3540.34,
+        "low": 3537.19,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8410401162,
+          "volume_sum_last": 7003534863
+        }
+      },
+      {
+        "current": 3534.08,
+        "volume": 55589164,
+        "avg_price": 3534.41,
+        "chg": 124.77,
+        "percent": 3.66,
+        "timestamp": 1626058260000,
+        "amount": 1098128602,
+        "high": 3540.47,
+        "low": 3534.08,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8465990326,
+          "volume_sum_last": 7044046233
+        }
+      },
+      {
+        "current": 3536.04,
+        "volume": 60853071,
+        "avg_price": 3536.12,
+        "chg": 126.73,
+        "percent": 3.72,
+        "timestamp": 1626058320000,
+        "amount": 1072947349,
+        "high": 3536.34,
+        "low": 3534.58,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8526843397,
+          "volume_sum_last": 7084474313
+        }
+      },
+      {
+        "current": 3534.38,
+        "volume": 51666659,
+        "avg_price": 3534.88,
+        "chg": 125.07,
+        "percent": 3.67,
+        "timestamp": 1626058380000,
+        "amount": 1034738109,
+        "high": 3536.48,
+        "low": 3534.38,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8578510056,
+          "volume_sum_last": 7119226530
+        }
+      },
+      {
+        "current": 3534.39,
+        "volume": 51939846,
+        "avg_price": 3534.39,
+        "chg": 125.08,
+        "percent": 3.67,
+        "timestamp": 1626058440000,
+        "amount": 1072480660,
+        "high": 3536.15,
+        "low": 3534.39,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8630449902,
+          "volume_sum_last": 7157273434
+        }
+      },
+      {
+        "current": 3535.57,
+        "volume": 54650650,
+        "avg_price": 3535.57,
+        "chg": 126.26,
+        "percent": 3.7,
+        "timestamp": 1626058500000,
+        "amount": 1028132099,
+        "high": 3535.61,
+        "low": 3533.8,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8685100552,
+          "volume_sum_last": 7194363694
+        }
+      },
+      {
+        "current": 3535.64,
+        "volume": 47400384,
+        "avg_price": 3535.77,
+        "chg": 126.33,
+        "percent": 3.71,
+        "timestamp": 1626058560000,
+        "amount": 954257360,
+        "high": 3535.98,
+        "low": 3534.49,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8732500936,
+          "volume_sum_last": 7230075963
+        }
+      },
+      {
+        "current": 3537.05,
+        "volume": 49694675,
+        "avg_price": 3536.73,
+        "chg": 127.74,
+        "percent": 3.75,
+        "timestamp": 1626058620000,
+        "amount": 984591368,
+        "high": 3537.05,
+        "low": 3534.67,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8782195611,
+          "volume_sum_last": 7266826165
+        }
+      },
+      {
+        "current": 3539.23,
+        "volume": 48144791,
+        "avg_price": 3539.12,
+        "chg": 129.92,
+        "percent": 3.81,
+        "timestamp": 1626058680000,
+        "amount": 972080812,
+        "high": 3539.65,
+        "low": 3537.25,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8830340402,
+          "volume_sum_last": 7304913688
+        }
+      },
+      {
+        "current": 3537.23,
+        "volume": 41207688,
+        "avg_price": 3537.3,
+        "chg": 127.92,
+        "percent": 3.75,
+        "timestamp": 1626058740000,
+        "amount": 854497302,
+        "high": 3539.59,
+        "low": 3536.85,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8871548090,
+          "volume_sum_last": 7343712208
+        }
+      },
+      {
+        "current": 3544.34,
+        "volume": 50194070,
+        "avg_price": 3543.89,
+        "chg": 135.03,
+        "percent": 3.96,
+        "timestamp": 1626058800000,
+        "amount": 1026735370,
+        "high": 3544.34,
+        "low": 3537.61,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8921742160,
+          "volume_sum_last": 7391231867
+        }
+      },
+      {
+        "current": 3542.21,
+        "volume": 47847029,
+        "avg_price": 3541.9,
+        "chg": 132.9,
+        "percent": 3.9,
+        "timestamp": 1626058860000,
+        "amount": 1007330807,
+        "high": 3544.78,
+        "low": 3541.45,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 8969589189,
+          "volume_sum_last": 7433268177
+        }
+      },
+      {
+        "current": 3544.96,
+        "volume": 43630736,
+        "avg_price": 3544.6,
+        "chg": 135.65,
+        "percent": 3.98,
+        "timestamp": 1626058920000,
+        "amount": 865453503,
+        "high": 3544.96,
+        "low": 3542.5,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9013219925,
+          "volume_sum_last": 7470469464
+        }
+      },
+      {
+        "current": 3543.79,
+        "volume": 41716723,
+        "avg_price": 3543.79,
+        "chg": 134.48,
+        "percent": 3.94,
+        "timestamp": 1626058980000,
+        "amount": 969341107,
+        "high": 3546.64,
+        "low": 3543.55,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9054936648,
+          "volume_sum_last": 7508378558
+        }
+      },
+      {
+        "current": 3544.95,
+        "volume": 38812525,
+        "avg_price": 3544.7,
+        "chg": 135.64,
+        "percent": 3.98,
+        "timestamp": 1626059040000,
+        "amount": 873209857,
+        "high": 3544.95,
+        "low": 3543.85,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9093749173,
+          "volume_sum_last": 7546853629
+        }
+      },
+      {
+        "current": 3545.95,
+        "volume": 41216170,
+        "avg_price": 3545.82,
+        "chg": 136.64,
+        "percent": 4.01,
+        "timestamp": 1626059100000,
+        "amount": 888275292,
+        "high": 3545.95,
+        "low": 3544.93,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9134965343,
+          "volume_sum_last": 7582242137
+        }
+      },
+      {
+        "current": 3546.96,
+        "volume": 44662302,
+        "avg_price": 3546.73,
+        "chg": 137.65,
+        "percent": 4.04,
+        "timestamp": 1626059160000,
+        "amount": 920070571,
+        "high": 3547.19,
+        "low": 3546.22,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9179627645,
+          "volume_sum_last": 7615680589
+        }
+      },
+      {
+        "current": 3549.56,
+        "volume": 41482290,
+        "avg_price": 3549.44,
+        "chg": 140.25,
+        "percent": 4.11,
+        "timestamp": 1626059220000,
+        "amount": 909976341,
+        "high": 3549.56,
+        "low": 3547.1,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9221109935,
+          "volume_sum_last": 7653272529
+        }
+      },
+      {
+        "current": 3550,
+        "volume": 41378609,
+        "avg_price": 3550,
+        "chg": 140.69,
+        "percent": 4.13,
+        "timestamp": 1626059280000,
+        "amount": 907294815,
+        "high": 3550.42,
+        "low": 3549.28,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9262488544,
+          "volume_sum_last": 7700998909
+        }
+      },
+      {
+        "current": 3543.04,
+        "volume": 37760894,
+        "avg_price": 3542.65,
+        "chg": 133.73,
+        "percent": 3.92,
+        "timestamp": 1626059340000,
+        "amount": 848864944,
+        "high": 3549.85,
+        "low": 3542.65,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9300249438,
+          "volume_sum_last": 7739895945
+        }
+      },
+      {
+        "current": 3543.74,
+        "volume": 42199866,
+        "avg_price": 3543.88,
+        "chg": 134.43,
+        "percent": 3.94,
+        "timestamp": 1626059400000,
+        "amount": 853232232,
+        "high": 3543.88,
+        "low": 3541.58,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9342449304,
+          "volume_sum_last": 7786853919
+        }
+      },
+      {
+        "current": 3546.38,
+        "volume": 41922907,
+        "avg_price": 3546.14,
+        "chg": 137.07,
+        "percent": 4.02,
+        "timestamp": 1626059460000,
+        "amount": 841524080,
+        "high": 3546.38,
+        "low": 3543.83,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9384372211,
+          "volume_sum_last": 7835202664
+        }
+      },
+      {
+        "current": 3549.47,
+        "volume": 45856597,
+        "avg_price": 3549.67,
+        "chg": 140.16,
+        "percent": 4.11,
+        "timestamp": 1626059520000,
+        "amount": 855202022,
+        "high": 3549.71,
+        "low": 3546.35,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9430228808,
+          "volume_sum_last": 7871729677
+        }
+      },
+      {
+        "current": 3551.97,
+        "volume": 43916015,
+        "avg_price": 3552.18,
+        "chg": 142.66,
+        "percent": 4.18,
+        "timestamp": 1626059580000,
+        "amount": 852014661,
+        "high": 3552.18,
+        "low": 3549.88,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9474144823,
+          "volume_sum_last": 7909344545
+        }
+      },
+      {
+        "current": 3552.5,
+        "volume": 39486899,
+        "avg_price": 3553.3,
+        "chg": 143.19,
+        "percent": 4.2,
+        "timestamp": 1626059640000,
+        "amount": 792166310,
+        "high": 3554.07,
+        "low": 3552.47,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9513631722,
+          "volume_sum_last": 7943928347
+        }
+      },
+      {
+        "current": 3551.76,
+        "volume": 35263521,
+        "avg_price": 3551.32,
+        "chg": 142.45,
+        "percent": 4.18,
+        "timestamp": 1626059700000,
+        "amount": 749994224,
+        "high": 3552.76,
+        "low": 3551.23,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9548895243,
+          "volume_sum_last": 7978063694
+        }
+      },
+      {
+        "current": 3551.28,
+        "volume": 36352693,
+        "avg_price": 3551.8,
+        "chg": 141.97,
+        "percent": 4.16,
+        "timestamp": 1626059760000,
+        "amount": 830263813,
+        "high": 3553.15,
+        "low": 3550.91,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9585247936,
+          "volume_sum_last": 8011976706
+        }
+      },
+      {
+        "current": 3543.84,
+        "volume": 42548898,
+        "avg_price": 3543.84,
+        "chg": 134.53,
+        "percent": 3.95,
+        "timestamp": 1626059820000,
+        "amount": 896716895,
+        "high": 3550.77,
+        "low": 3543.84,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9627796834,
+          "volume_sum_last": 8045807990
+        }
+      },
+      {
+        "current": 3536.56,
+        "volume": 44582807,
+        "avg_price": 3536.56,
+        "chg": 127.25,
+        "percent": 3.73,
+        "timestamp": 1626059880000,
+        "amount": 882157394,
+        "high": 3543.22,
+        "low": 3536.26,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9672379641,
+          "volume_sum_last": 8080303871
+        }
+      },
+      {
+        "current": 3533.08,
+        "volume": 41271310,
+        "avg_price": 3532.82,
+        "chg": 123.77,
+        "percent": 3.63,
+        "timestamp": 1626059940000,
+        "amount": 871136024,
+        "high": 3535.88,
+        "low": 3532.63,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9713650951,
+          "volume_sum_last": 8118696022
+        }
+      },
+      {
+        "current": 3536.96,
+        "volume": 38128924,
+        "avg_price": 3536.47,
+        "chg": 127.65,
+        "percent": 3.74,
+        "timestamp": 1626060000000,
+        "amount": 841006388,
+        "high": 3536.96,
+        "low": 3532.33,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9751779875,
+          "volume_sum_last": 8161468211
+        }
+      },
+      {
+        "current": 3530.67,
+        "volume": 37175055,
+        "avg_price": 3530.83,
+        "chg": 121.36,
+        "percent": 3.56,
+        "timestamp": 1626060060000,
+        "amount": 804613872,
+        "high": 3536.51,
+        "low": 3530.67,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9788954930,
+          "volume_sum_last": 8198314784
+        }
+      },
+      {
+        "current": 3532.77,
+        "volume": 40200431,
+        "avg_price": 3533.31,
+        "chg": 123.46,
+        "percent": 3.62,
+        "timestamp": 1626060120000,
+        "amount": 817798241,
+        "high": 3534.14,
+        "low": 3529.68,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9829155361,
+          "volume_sum_last": 8234769910
+        }
+      },
+      {
+        "current": 3537.94,
+        "volume": 38981092,
+        "avg_price": 3538.19,
+        "chg": 128.63,
+        "percent": 3.77,
+        "timestamp": 1626060180000,
+        "amount": 769885949,
+        "high": 3538.19,
+        "low": 3533.15,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9868136453,
+          "volume_sum_last": 8271300599
+        }
+      },
+      {
+        "current": 3536.23,
+        "volume": 32640777,
+        "avg_price": 3536.74,
+        "chg": 126.92,
+        "percent": 3.72,
+        "timestamp": 1626060240000,
+        "amount": 657401744,
+        "high": 3538.14,
+        "low": 3536.09,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9900777230,
+          "volume_sum_last": 8306321678
+        }
+      },
+      {
+        "current": 3536.61,
+        "volume": 33323737,
+        "avg_price": 3537.48,
+        "chg": 127.3,
+        "percent": 3.73,
+        "timestamp": 1626060300000,
+        "amount": 637147406,
+        "high": 3537.48,
+        "low": 3535.75,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9934100967,
+          "volume_sum_last": 8342866491
+        }
+      },
+      {
+        "current": 3537.1,
+        "volume": 32917041,
+        "avg_price": 3537.06,
+        "chg": 127.79,
+        "percent": 3.75,
+        "timestamp": 1626060360000,
+        "amount": 608003745,
+        "high": 3537.17,
+        "low": 3536.47,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 9967018008,
+          "volume_sum_last": 8376809054
+        }
+      },
+      {
+        "current": 3538,
+        "volume": 34836834,
+        "avg_price": 3537.88,
+        "chg": 128.69,
+        "percent": 3.77,
+        "timestamp": 1626060420000,
+        "amount": 666875982,
+        "high": 3539.05,
+        "low": 3536.91,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10001854842,
+          "volume_sum_last": 8409865735
+        }
+      },
+      {
+        "current": 3540.37,
+        "volume": 34317067,
+        "avg_price": 3540.37,
+        "chg": 131.06,
+        "percent": 3.84,
+        "timestamp": 1626060480000,
+        "amount": 688982240,
+        "high": 3540.37,
+        "low": 3537.92,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10036171909,
+          "volume_sum_last": 8442081524
+        }
+      },
+      {
+        "current": 3543.2,
+        "volume": 39506662,
+        "avg_price": 3543.19,
+        "chg": 133.89,
+        "percent": 3.93,
+        "timestamp": 1626060540000,
+        "amount": 705968105,
+        "high": 3543.2,
+        "low": 3539.34,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10075678571,
+          "volume_sum_last": 8472085212
+        }
+      },
+      {
+        "current": 3543.82,
+        "volume": 2979080,
+        "avg_price": 3543.82,
+        "chg": 134.51,
+        "percent": 3.95,
+        "timestamp": 1626060600000,
+        "amount": 57246544,
+        "high": 3543.82,
+        "low": 3543.62,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10078657651,
+          "volume_sum_last": 8475004075
+        }
+      },
+      {
+        "current": 3544.41,
+        "volume": 103472092,
+        "avg_price": 3544.47,
+        "chg": 135.1,
+        "percent": 3.96,
+        "timestamp": 1626066000000,
+        "amount": 1889844865,
+        "high": 3546.66,
+        "low": 3544.16,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10182129743,
+          "volume_sum_last": 8553992572
+        }
+      },
+      {
+        "current": 3547,
+        "volume": 45288438,
+        "avg_price": 3546.94,
+        "chg": 137.69,
+        "percent": 4.04,
+        "timestamp": 1626066060000,
+        "amount": 977210324,
+        "high": 3547.62,
+        "low": 3544.52,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10227418181,
+          "volume_sum_last": 8592285927
+        }
+      },
+      {
+        "current": 3548.39,
+        "volume": 40762181,
+        "avg_price": 3547.31,
+        "chg": 139.08,
+        "percent": 4.08,
+        "timestamp": 1626066120000,
+        "amount": 885484244,
+        "high": 3548.39,
+        "low": 3545.61,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10268180362,
+          "volume_sum_last": 8624409513
+        }
+      },
+      {
+        "current": 3551.06,
+        "volume": 40934757,
+        "avg_price": 3551.06,
+        "chg": 141.75,
+        "percent": 4.16,
+        "timestamp": 1626066180000,
+        "amount": 855825166,
+        "high": 3551.79,
+        "low": 3547.66,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10309115119,
+          "volume_sum_last": 8655151015
+        }
+      },
+      {
+        "current": 3550.81,
+        "volume": 47112624,
+        "avg_price": 3549.98,
+        "chg": 141.5,
+        "percent": 4.15,
+        "timestamp": 1626066240000,
+        "amount": 950169291,
+        "high": 3552.96,
+        "low": 3549.98,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10356227743,
+          "volume_sum_last": 8684966526
+        }
+      },
+      {
+        "current": 3546.69,
+        "volume": 48957156,
+        "avg_price": 3546.43,
+        "chg": 137.38,
+        "percent": 4.03,
+        "timestamp": 1626066300000,
+        "amount": 982244611,
+        "high": 3550.37,
+        "low": 3546.43,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10405184899,
+          "volume_sum_last": 8716684508
+        }
+      },
+      {
+        "current": 3547.51,
+        "volume": 45630024,
+        "avg_price": 3547.99,
+        "chg": 138.2,
+        "percent": 4.05,
+        "timestamp": 1626066360000,
+        "amount": 942198949,
+        "high": 3548.27,
+        "low": 3547.41,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10450814923,
+          "volume_sum_last": 8750410508
+        }
+      },
+      {
+        "current": 3547.18,
+        "volume": 40357609,
+        "avg_price": 3546.94,
+        "chg": 137.87,
+        "percent": 4.04,
+        "timestamp": 1626066420000,
+        "amount": 869292937,
+        "high": 3547.57,
+        "low": 3546.54,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10491172532,
+          "volume_sum_last": 8782642654
+        }
+      },
+      {
+        "current": 3540.83,
+        "volume": 45412960,
+        "avg_price": 3541.28,
+        "chg": 131.52,
+        "percent": 3.86,
+        "timestamp": 1626066480000,
+        "amount": 990860348,
+        "high": 3546.39,
+        "low": 3540.33,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10536585492,
+          "volume_sum_last": 8817810253
+        }
+      },
+      {
+        "current": 3540.78,
+        "volume": 39996279,
+        "avg_price": 3540.61,
+        "chg": 131.47,
+        "percent": 3.86,
+        "timestamp": 1626066540000,
+        "amount": 855177521,
+        "high": 3541.25,
+        "low": 3539,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10576581771,
+          "volume_sum_last": 8849544565
+        }
+      },
+      {
+        "current": 3545.87,
+        "volume": 48333224,
+        "avg_price": 3546.04,
+        "chg": 136.56,
+        "percent": 4.01,
+        "timestamp": 1626066600000,
+        "amount": 1009381117,
+        "high": 3546.04,
+        "low": 3539.08,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10624914995,
+          "volume_sum_last": 8888024313
+        }
+      },
+      {
+        "current": 3543.92,
+        "volume": 45964221,
+        "avg_price": 3544.42,
+        "chg": 134.61,
+        "percent": 3.95,
+        "timestamp": 1626066660000,
+        "amount": 1001185887,
+        "high": 3546.13,
+        "low": 3542.79,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10670879216,
+          "volume_sum_last": 8922037978
+        }
+      },
+      {
+        "current": 3541.8,
+        "volume": 46836387,
+        "avg_price": 3542.02,
+        "chg": 132.49,
+        "percent": 3.89,
+        "timestamp": 1626066720000,
+        "amount": 1023221919,
+        "high": 3544.22,
+        "low": 3541.26,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10717715603,
+          "volume_sum_last": 8953431485
+        }
+      },
+      {
+        "current": 3541.84,
+        "volume": 45065043,
+        "avg_price": 3541.54,
+        "chg": 132.53,
+        "percent": 3.89,
+        "timestamp": 1626066780000,
+        "amount": 985100418,
+        "high": 3542.98,
+        "low": 3541.54,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10762780646,
+          "volume_sum_last": 8987153569
+        }
+      },
+      {
+        "current": 3543.54,
+        "volume": 47042617,
+        "avg_price": 3543.62,
+        "chg": 134.23,
+        "percent": 3.94,
+        "timestamp": 1626066840000,
+        "amount": 973214018,
+        "high": 3543.62,
+        "low": 3541.99,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10809823263,
+          "volume_sum_last": 9020600938
+        }
+      },
+      {
+        "current": 3545.4,
+        "volume": 48410708,
+        "avg_price": 3545.61,
+        "chg": 136.09,
+        "percent": 3.99,
+        "timestamp": 1626066900000,
+        "amount": 1024026597,
+        "high": 3545.75,
+        "low": 3543.8,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10858233971,
+          "volume_sum_last": 9061998024
+        }
+      },
+      {
+        "current": 3544.86,
+        "volume": 49806247,
+        "avg_price": 3545.68,
+        "chg": 135.55,
+        "percent": 3.98,
+        "timestamp": 1626066960000,
+        "amount": 1053855710,
+        "high": 3545.93,
+        "low": 3544.86,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10908040218,
+          "volume_sum_last": 9105993483
+        }
+      },
+      {
+        "current": 3541.36,
+        "volume": 51329057,
+        "avg_price": 3542.15,
+        "chg": 132.05,
+        "percent": 3.87,
+        "timestamp": 1626067020000,
+        "amount": 1081424558,
+        "high": 3545.59,
+        "low": 3541.36,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 10959369275,
+          "volume_sum_last": 9144533762
+        }
+      },
+      {
+        "current": 3536.21,
+        "volume": 46145570,
+        "avg_price": 3536.42,
+        "chg": 126.9,
+        "percent": 3.72,
+        "timestamp": 1626067080000,
+        "amount": 1016601121,
+        "high": 3542.01,
+        "low": 3536.21,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11005514845,
+          "volume_sum_last": 9189620681
+        }
+      },
+      {
+        "current": 3536.47,
+        "volume": 48623687,
+        "avg_price": 3536.34,
+        "chg": 127.16,
+        "percent": 3.73,
+        "timestamp": 1626067140000,
+        "amount": 1084465040,
+        "high": 3536.86,
+        "low": 3535.55,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11054138532,
+          "volume_sum_last": 9233558810
+        }
+      },
+      {
+        "current": 3538.57,
+        "volume": 52482185,
+        "avg_price": 3538.95,
+        "chg": 129.26,
+        "percent": 3.79,
+        "timestamp": 1626067200000,
+        "amount": 1215870391,
+        "high": 3539.31,
+        "low": 3535.82,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11106620717,
+          "volume_sum_last": 9277151025
+        }
+      },
+      {
+        "current": 3535.54,
+        "volume": 49473180,
+        "avg_price": 3535.42,
+        "chg": 126.23,
+        "percent": 3.7,
+        "timestamp": 1626067260000,
+        "amount": 1043809608,
+        "high": 3538.1,
+        "low": 3535.29,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11156093897,
+          "volume_sum_last": 9319794155
+        }
+      },
+      {
+        "current": 3534.2,
+        "volume": 59027394,
+        "avg_price": 3534.22,
+        "chg": 124.89,
+        "percent": 3.66,
+        "timestamp": 1626067320000,
+        "amount": 1079427021,
+        "high": 3535.76,
+        "low": 3534.2,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11215121291,
+          "volume_sum_last": 9363569332
+        }
+      },
+      {
+        "current": 3534.44,
+        "volume": 70509236,
+        "avg_price": 3534.29,
+        "chg": 125.13,
+        "percent": 3.67,
+        "timestamp": 1626067380000,
+        "amount": 1210848836,
+        "high": 3534.85,
+        "low": 3533.75,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11285630527,
+          "volume_sum_last": 9408193587
+        }
+      },
+      {
+        "current": 3533.67,
+        "volume": 60771551,
+        "avg_price": 3533.67,
+        "chg": 124.36,
+        "percent": 3.65,
+        "timestamp": 1626067440000,
+        "amount": 1108067561,
+        "high": 3534.28,
+        "low": 3533.45,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11346402078,
+          "volume_sum_last": 9447762975
+        }
+      },
+      {
+        "current": 3529.65,
+        "volume": 57654663,
+        "avg_price": 3529.74,
+        "chg": 120.34,
+        "percent": 3.53,
+        "timestamp": 1626067500000,
+        "amount": 1118885941,
+        "high": 3533.66,
+        "low": 3529.65,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11404056741,
+          "volume_sum_last": 9509935378
+        }
+      },
+      {
+        "current": 3529.43,
+        "volume": 60443600,
+        "avg_price": 3530.28,
+        "chg": 120.12,
+        "percent": 3.52,
+        "timestamp": 1626067560000,
+        "amount": 1204481504,
+        "high": 3530.28,
+        "low": 3528.08,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11464500341,
+          "volume_sum_last": 9548364726
+        }
+      },
+      {
+        "current": 3528.05,
+        "volume": 45676770,
+        "avg_price": 3529.22,
+        "chg": 118.74,
+        "percent": 3.48,
+        "timestamp": 1626067620000,
+        "amount": 947418241,
+        "high": 3529.46,
+        "low": 3528.05,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11510177111,
+          "volume_sum_last": 9587432520
+        }
+      },
+      {
+        "current": 3528.49,
+        "volume": 44039387,
+        "avg_price": 3528.7,
+        "chg": 119.18,
+        "percent": 3.5,
+        "timestamp": 1626067680000,
+        "amount": 892832171,
+        "high": 3529.37,
+        "low": 3528.49,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11554216498,
+          "volume_sum_last": 9626384836
+        }
+      },
+      {
+        "current": 3528.96,
+        "volume": 47999188,
+        "avg_price": 3528.85,
+        "chg": 119.65,
+        "percent": 3.51,
+        "timestamp": 1626067740000,
+        "amount": 888334863,
+        "high": 3529.56,
+        "low": 3528.3,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11602215686,
+          "volume_sum_last": 9661448874
+        }
+      },
+      {
+        "current": 3524.35,
+        "volume": 57388156,
+        "avg_price": 3524.67,
+        "chg": 115.04,
+        "percent": 3.37,
+        "timestamp": 1626067800000,
+        "amount": 1160054934,
+        "high": 3529.28,
+        "low": 3523.99,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11659603842,
+          "volume_sum_last": 9702754148
+        }
+      },
+      {
+        "current": 3519.14,
+        "volume": 47347978,
+        "avg_price": 3519.44,
+        "chg": 109.83,
+        "percent": 3.22,
+        "timestamp": 1626067860000,
+        "amount": 953907464,
+        "high": 3524.43,
+        "low": 3519.14,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11706951820,
+          "volume_sum_last": 9740454222
+        }
+      },
+      {
+        "current": 3513.43,
+        "volume": 53647932,
+        "avg_price": 3513.68,
+        "chg": 104.12,
+        "percent": 3.05,
+        "timestamp": 1626067920000,
+        "amount": 1068022732,
+        "high": 3518.39,
+        "low": 3513.43,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11760599752,
+          "volume_sum_last": 9777820278
+        }
+      },
+      {
+        "current": 3513.92,
+        "volume": 52728325,
+        "avg_price": 3513.45,
+        "chg": 104.61,
+        "percent": 3.07,
+        "timestamp": 1626067980000,
+        "amount": 1074761581,
+        "high": 3513.92,
+        "low": 3511.54,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11813328077,
+          "volume_sum_last": 9815226866
+        }
+      },
+      {
+        "current": 3515.95,
+        "volume": 48096993,
+        "avg_price": 3515.19,
+        "chg": 106.64,
+        "percent": 3.13,
+        "timestamp": 1626068040000,
+        "amount": 978958354,
+        "high": 3515.95,
+        "low": 3513.47,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11861425070,
+          "volume_sum_last": 9856369524
+        }
+      },
+      {
+        "current": 3516.3,
+        "volume": 48707821,
+        "avg_price": 3516.4,
+        "chg": 106.99,
+        "percent": 3.14,
+        "timestamp": 1626068100000,
+        "amount": 900391881,
+        "high": 3516.54,
+        "low": 3515.6,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11910132891,
+          "volume_sum_last": 9894491571
+        }
+      },
+      {
+        "current": 3516.08,
+        "volume": 43956772,
+        "avg_price": 3516.02,
+        "chg": 106.77,
+        "percent": 3.13,
+        "timestamp": 1626068160000,
+        "amount": 828979197,
+        "high": 3516.69,
+        "low": 3515.88,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11954089663,
+          "volume_sum_last": 9939855665
+        }
+      },
+      {
+        "current": 3514.09,
+        "volume": 43913855,
+        "avg_price": 3514.06,
+        "chg": 104.78,
+        "percent": 3.07,
+        "timestamp": 1626068220000,
+        "amount": 844718775,
+        "high": 3516.17,
+        "low": 3514.06,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 11998003518,
+          "volume_sum_last": 9981805517
+        }
+      },
+      {
+        "current": 3513.22,
+        "volume": 41575873,
+        "avg_price": 3513.47,
+        "chg": 103.91,
+        "percent": 3.05,
+        "timestamp": 1626068280000,
+        "amount": 823860679,
+        "high": 3514.3,
+        "low": 3512.93,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12039579391,
+          "volume_sum_last": 10019362970
+        }
+      },
+      {
+        "current": 3515.41,
+        "volume": 40558013,
+        "avg_price": 3515.15,
+        "chg": 106.1,
+        "percent": 3.11,
+        "timestamp": 1626068340000,
+        "amount": 817938776,
+        "high": 3516.26,
+        "low": 3513.51,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12080137404,
+          "volume_sum_last": 10057166706
+        }
+      },
+      {
+        "current": 3519.05,
+        "volume": 42283481,
+        "avg_price": 3518.69,
+        "chg": 109.74,
+        "percent": 3.22,
+        "timestamp": 1626068400000,
+        "amount": 876614159,
+        "high": 3519.05,
+        "low": 3515.45,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12122420885,
+          "volume_sum_last": 10100085120
+        }
+      },
+      {
+        "current": 3513.05,
+        "volume": 47414196,
+        "avg_price": 3513.8,
+        "chg": 103.74,
+        "percent": 3.04,
+        "timestamp": 1626068460000,
+        "amount": 952029785,
+        "high": 3519.12,
+        "low": 3513.05,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12169835081,
+          "volume_sum_last": 10137865780
+        }
+      },
+      {
+        "current": 3510.7,
+        "volume": 49369624,
+        "avg_price": 3510.7,
+        "chg": 101.39,
+        "percent": 2.97,
+        "timestamp": 1626068520000,
+        "amount": 973825869,
+        "high": 3512.45,
+        "low": 3510.2,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12219204705,
+          "volume_sum_last": 10173882985
+        }
+      },
+      {
+        "current": 3508.48,
+        "volume": 43928892,
+        "avg_price": 3508.4,
+        "chg": 99.17,
+        "percent": 2.91,
+        "timestamp": 1626068580000,
+        "amount": 883027170,
+        "high": 3510.08,
+        "low": 3508.36,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12263133597,
+          "volume_sum_last": 10211134530
+        }
+      },
+      {
+        "current": 3508.96,
+        "volume": 40855523,
+        "avg_price": 3508.99,
+        "chg": 99.65,
+        "percent": 2.92,
+        "timestamp": 1626068640000,
+        "amount": 801666355,
+        "high": 3510.09,
+        "low": 3508.23,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12303989120,
+          "volume_sum_last": 10253233432
+        }
+      },
+      {
+        "current": 3508.33,
+        "volume": 42147658,
+        "avg_price": 3508.1,
+        "chg": 99.02,
+        "percent": 2.9,
+        "timestamp": 1626068700000,
+        "amount": 857708239,
+        "high": 3508.87,
+        "low": 3507.44,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12346136778,
+          "volume_sum_last": 10294838685
+        }
+      },
+      {
+        "current": 3509.79,
+        "volume": 65458943,
+        "avg_price": 3509.82,
+        "chg": 100.48,
+        "percent": 2.95,
+        "timestamp": 1626068760000,
+        "amount": 994132710,
+        "high": 3509.82,
+        "low": 3508.17,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12411595721,
+          "volume_sum_last": 10333517951
+        }
+      },
+      {
+        "current": 3516.48,
+        "volume": 41463066,
+        "avg_price": 3515.89,
+        "chg": 107.17,
+        "percent": 3.14,
+        "timestamp": 1626068820000,
+        "amount": 872990082,
+        "high": 3516.48,
+        "low": 3510.02,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12453058787,
+          "volume_sum_last": 10369334591
+        }
+      },
+      {
+        "current": 3518.67,
+        "volume": 46908822,
+        "avg_price": 3518.82,
+        "chg": 109.36,
+        "percent": 3.21,
+        "timestamp": 1626068880000,
+        "amount": 845145080,
+        "high": 3518.82,
+        "low": 3516.66,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12499967609,
+          "volume_sum_last": 10405802983
+        }
+      },
+      {
+        "current": 3520.87,
+        "volume": 46897459,
+        "avg_price": 3521.08,
+        "chg": 111.56,
+        "percent": 3.27,
+        "timestamp": 1626068940000,
+        "amount": 872053348,
+        "high": 3521.08,
+        "low": 3519.17,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12546865068,
+          "volume_sum_last": 10442714492
+        }
+      },
+      {
+        "current": 3523.71,
+        "volume": 42159177,
+        "avg_price": 3523.69,
+        "chg": 114.4,
+        "percent": 3.36,
+        "timestamp": 1626069000000,
+        "amount": 836214434,
+        "high": 3523.94,
+        "low": 3521.05,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12589024245,
+          "volume_sum_last": 10482813915
+        }
+      },
+      {
+        "current": 3520.86,
+        "volume": 41040443,
+        "avg_price": 3520.91,
+        "chg": 111.55,
+        "percent": 3.27,
+        "timestamp": 1626069060000,
+        "amount": 803997173,
+        "high": 3523.95,
+        "low": 3520.86,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12630064688,
+          "volume_sum_last": 10520491941
+        }
+      },
+      {
+        "current": 3522.52,
+        "volume": 36147086,
+        "avg_price": 3522.1,
+        "chg": 113.21,
+        "percent": 3.32,
+        "timestamp": 1626069120000,
+        "amount": 682654770,
+        "high": 3522.52,
+        "low": 3520.09,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12666211774,
+          "volume_sum_last": 10558090540
+        }
+      },
+      {
+        "current": 3524.54,
+        "volume": 38250354,
+        "avg_price": 3524.55,
+        "chg": 115.23,
+        "percent": 3.38,
+        "timestamp": 1626069180000,
+        "amount": 738785890,
+        "high": 3524.61,
+        "low": 3522.48,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12704462128,
+          "volume_sum_last": 10597076606
+        }
+      },
+      {
+        "current": 3526.84,
+        "volume": 37314870,
+        "avg_price": 3526.76,
+        "chg": 117.53,
+        "percent": 3.45,
+        "timestamp": 1626069240000,
+        "amount": 745235214,
+        "high": 3526.84,
+        "low": 3524.78,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12741776998,
+          "volume_sum_last": 10636127821
+        }
+      },
+      {
+        "current": 3527.77,
+        "volume": 35825367,
+        "avg_price": 3527.53,
+        "chg": 118.46,
+        "percent": 3.47,
+        "timestamp": 1626069300000,
+        "amount": 723167345,
+        "high": 3527.77,
+        "low": 3526.71,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12777602365,
+          "volume_sum_last": 10674142335
+        }
+      },
+      {
+        "current": 3528.01,
+        "volume": 36295451,
+        "avg_price": 3527.31,
+        "chg": 118.7,
+        "percent": 3.48,
+        "timestamp": 1626069360000,
+        "amount": 750280401,
+        "high": 3528.07,
+        "low": 3526.22,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12813897816,
+          "volume_sum_last": 10713876741
+        }
+      },
+      {
+        "current": 3526.22,
+        "volume": 37173612,
+        "avg_price": 3526.94,
+        "chg": 116.91,
+        "percent": 3.43,
+        "timestamp": 1626069420000,
+        "amount": 738919539,
+        "high": 3529.25,
+        "low": 3526.22,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12851071428,
+          "volume_sum_last": 10749853622
+        }
+      },
+      {
+        "current": 3529.05,
+        "volume": 36348413,
+        "avg_price": 3528.49,
+        "chg": 119.74,
+        "percent": 3.51,
+        "timestamp": 1626069480000,
+        "amount": 735319980,
+        "high": 3529.05,
+        "low": 3526.87,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12887419841,
+          "volume_sum_last": 10785715907
+        }
+      },
+      {
+        "current": 3530.25,
+        "volume": 36273741,
+        "avg_price": 3530.11,
+        "chg": 120.94,
+        "percent": 3.55,
+        "timestamp": 1626069540000,
+        "amount": 758085782,
+        "high": 3530.81,
+        "low": 3529.02,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12923693582,
+          "volume_sum_last": 10821440087
+        }
+      },
+      {
+        "current": 3526.7,
+        "volume": 39942585,
+        "avg_price": 3526.88,
+        "chg": 117.39,
+        "percent": 3.44,
+        "timestamp": 1626069600000,
+        "amount": 817809917,
+        "high": 3530.81,
+        "low": 3526.7,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 12963636167,
+          "volume_sum_last": 10865084922
+        }
+      },
+      {
+        "current": 3531.78,
+        "volume": 39849117,
+        "avg_price": 3531.39,
+        "chg": 122.47,
+        "percent": 3.59,
+        "timestamp": 1626069660000,
+        "amount": 832852567,
+        "high": 3531.78,
+        "low": 3526.25,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13003485284,
+          "volume_sum_last": 10910193956
+        }
+      },
+      {
+        "current": 3528.14,
+        "volume": 39210190,
+        "avg_price": 3528.33,
+        "chg": 118.83,
+        "percent": 3.49,
+        "timestamp": 1626069720000,
+        "amount": 813222857,
+        "high": 3532.01,
+        "low": 3527.86,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13042695474,
+          "volume_sum_last": 10945857690
+        }
+      },
+      {
+        "current": 3529.71,
+        "volume": 36699222,
+        "avg_price": 3529.48,
+        "chg": 120.4,
+        "percent": 3.53,
+        "timestamp": 1626069780000,
+        "amount": 726756310,
+        "high": 3529.71,
+        "low": 3527.77,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13079394696,
+          "volume_sum_last": 10980143041
+        }
+      },
+      {
+        "current": 3529.47,
+        "volume": 35675178,
+        "avg_price": 3529.52,
+        "chg": 120.16,
+        "percent": 3.52,
+        "timestamp": 1626069840000,
+        "amount": 715766247,
+        "high": 3530.71,
+        "low": 3529.38,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13115069874,
+          "volume_sum_last": 11013406145
+        }
+      },
+      {
+        "current": 3531.51,
+        "volume": 38414709,
+        "avg_price": 3530.75,
+        "chg": 122.2,
+        "percent": 3.58,
+        "timestamp": 1626069900000,
+        "amount": 788278570,
+        "high": 3531.51,
+        "low": 3529.33,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13153484583,
+          "volume_sum_last": 11050306888
+        }
+      },
+      {
+        "current": 3531.59,
+        "volume": 37712818,
+        "avg_price": 3531.6,
+        "chg": 122.28,
+        "percent": 3.59,
+        "timestamp": 1626069960000,
+        "amount": 711852627,
+        "high": 3532.21,
+        "low": 3530.93,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13191197401,
+          "volume_sum_last": 11088805555
+        }
+      },
+      {
+        "current": 3532.53,
+        "volume": 38219270,
+        "avg_price": 3532.44,
+        "chg": 123.22,
+        "percent": 3.61,
+        "timestamp": 1626070020000,
+        "amount": 714678800,
+        "high": 3532.95,
+        "low": 3531.58,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13229416671,
+          "volume_sum_last": 11126900753
+        }
+      },
+      {
+        "current": 3535.32,
+        "volume": 38907696,
+        "avg_price": 3535.16,
+        "chg": 126.01,
+        "percent": 3.7,
+        "timestamp": 1626070080000,
+        "amount": 707604308,
+        "high": 3535.32,
+        "low": 3532.63,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13268324367,
+          "volume_sum_last": 11160534079
+        }
+      },
+      {
+        "current": 3536.35,
+        "volume": 40854308,
+        "avg_price": 3536.38,
+        "chg": 127.04,
+        "percent": 3.73,
+        "timestamp": 1626070140000,
+        "amount": 754659833,
+        "high": 3536.44,
+        "low": 3535.45,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13309178675,
+          "volume_sum_last": 11195641164
+        }
+      },
+      {
+        "current": 3538.08,
+        "volume": 40630223,
+        "avg_price": 3537.72,
+        "chg": 128.77,
+        "percent": 3.78,
+        "timestamp": 1626070200000,
+        "amount": 765195001,
+        "high": 3538.4,
+        "low": 3536.42,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13349808898,
+          "volume_sum_last": 11235759917
+        }
+      },
+      {
+        "current": 3539.43,
+        "volume": 36955361,
+        "avg_price": 3539.47,
+        "chg": 130.12,
+        "percent": 3.82,
+        "timestamp": 1626070260000,
+        "amount": 691094522,
+        "high": 3539.48,
+        "low": 3537.68,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13386764259,
+          "volume_sum_last": 11272945752
+        }
+      },
+      {
+        "current": 3539.47,
+        "volume": 40237004,
+        "avg_price": 3539.52,
+        "chg": 130.16,
+        "percent": 3.82,
+        "timestamp": 1626070320000,
+        "amount": 750178146,
+        "high": 3539.83,
+        "low": 3539.23,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13427001263,
+          "volume_sum_last": 11311867840
+        }
+      },
+      {
+        "current": 3539.44,
+        "volume": 39735385,
+        "avg_price": 3539.6,
+        "chg": 130.13,
+        "percent": 3.82,
+        "timestamp": 1626070380000,
+        "amount": 755853429,
+        "high": 3540.13,
+        "low": 3539.31,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13466736648,
+          "volume_sum_last": 11345772443
+        }
+      },
+      {
+        "current": 3538.84,
+        "volume": 40063733,
+        "avg_price": 3538.92,
+        "chg": 129.53,
+        "percent": 3.8,
+        "timestamp": 1626070440000,
+        "amount": 770219493,
+        "high": 3539.46,
+        "low": 3538.71,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13506800381,
+          "volume_sum_last": 11380001965
+        }
+      },
+      {
+        "current": 3540.23,
+        "volume": 39145768,
+        "avg_price": 3540.28,
+        "chg": 130.92,
+        "percent": 3.84,
+        "timestamp": 1626070500000,
+        "amount": 755745930,
+        "high": 3540.28,
+        "low": 3538.94,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13545946149,
+          "volume_sum_last": 11411951046
+        }
+      },
+      {
+        "current": 3540.63,
+        "volume": 36229483,
+        "avg_price": 3540.87,
+        "chg": 131.32,
+        "percent": 3.85,
+        "timestamp": 1626070560000,
+        "amount": 738383843,
+        "high": 3540.95,
+        "low": 3540.31,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13582175632,
+          "volume_sum_last": 11449331337
+        }
+      },
+      {
+        "current": 3534.2,
+        "volume": 41858568,
+        "avg_price": 3534.02,
+        "chg": 124.89,
+        "percent": 3.66,
+        "timestamp": 1626070620000,
+        "amount": 866048604,
+        "high": 3540.55,
+        "low": 3533.15,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13624034200,
+          "volume_sum_last": 11488436138
+        }
+      },
+      {
+        "current": 3534.4,
+        "volume": 35626223,
+        "avg_price": 3534.54,
+        "chg": 125.09,
+        "percent": 3.67,
+        "timestamp": 1626070680000,
+        "amount": 679969697,
+        "high": 3535.58,
+        "low": 3533.93,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13659660423,
+          "volume_sum_last": 11527383992
+        }
+      },
+      {
+        "current": 3534.45,
+        "volume": 33120295,
+        "avg_price": 3534.41,
+        "chg": 125.14,
+        "percent": 3.67,
+        "timestamp": 1626070740000,
+        "amount": 685702473,
+        "high": 3534.69,
+        "low": 3533.9,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13692780718,
+          "volume_sum_last": 11567090327
+        }
+      },
+      {
+        "current": 3534.71,
+        "volume": 37451608,
+        "avg_price": 3534.96,
+        "chg": 125.4,
+        "percent": 3.68,
+        "timestamp": 1626070800000,
+        "amount": 725219392,
+        "high": 3535.19,
+        "low": 3534.25,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13730232326,
+          "volume_sum_last": 11609105545
+        }
+      },
+      {
+        "current": 3537.11,
+        "volume": 37680394,
+        "avg_price": 3537.11,
+        "chg": 127.8,
+        "percent": 3.75,
+        "timestamp": 1626070860000,
+        "amount": 730747048,
+        "high": 3537.27,
+        "low": 3534.96,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13767912720,
+          "volume_sum_last": 11648380480
+        }
+      },
+      {
+        "current": 3534.26,
+        "volume": 42682208,
+        "avg_price": 3534.32,
+        "chg": 124.95,
+        "percent": 3.66,
+        "timestamp": 1626070920000,
+        "amount": 820646680,
+        "high": 3537.64,
+        "low": 3533.78,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13810594928,
+          "volume_sum_last": 11684509538
+        }
+      },
+      {
+        "current": 3533.64,
+        "volume": 42803153,
+        "avg_price": 3533.58,
+        "chg": 124.33,
+        "percent": 3.65,
+        "timestamp": 1626070980000,
+        "amount": 715838808,
+        "high": 3534.4,
+        "low": 3533.52,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13853398081,
+          "volume_sum_last": 11719492116
+        }
+      },
+      {
+        "current": 3531.22,
+        "volume": 41417459,
+        "avg_price": 3531.22,
+        "chg": 121.91,
+        "percent": 3.58,
+        "timestamp": 1626071040000,
+        "amount": 804323316,
+        "high": 3533.53,
+        "low": 3531.22,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13894815540,
+          "volume_sum_last": 11759211766
+        }
+      },
+      {
+        "current": 3531.48,
+        "volume": 40950988,
+        "avg_price": 3531.82,
+        "chg": 122.17,
+        "percent": 3.58,
+        "timestamp": 1626071100000,
+        "amount": 726225554,
+        "high": 3531.82,
+        "low": 3530.8,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13935766528,
+          "volume_sum_last": 11797893593
+        }
+      },
+      {
+        "current": 3531.33,
+        "volume": 43212151,
+        "avg_price": 3531.39,
+        "chg": 122.02,
+        "percent": 3.58,
+        "timestamp": 1626071160000,
+        "amount": 767325713,
+        "high": 3532.33,
+        "low": 3531.1,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 13978978679,
+          "volume_sum_last": 11837967143
+        }
+      },
+      {
+        "current": 3531.34,
+        "volume": 46731809,
+        "avg_price": 3531.17,
+        "chg": 122.03,
+        "percent": 3.58,
+        "timestamp": 1626071220000,
+        "amount": 835444696,
+        "high": 3531.54,
+        "low": 3530.88,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14025710488,
+          "volume_sum_last": 11876910897
+        }
+      },
+      {
+        "current": 3530.28,
+        "volume": 43240174,
+        "avg_price": 3530.53,
+        "chg": 120.97,
+        "percent": 3.55,
+        "timestamp": 1626071280000,
+        "amount": 799553478,
+        "high": 3531.88,
+        "low": 3530.28,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14068950662,
+          "volume_sum_last": 11912489426
+        }
+      },
+      {
+        "current": 3531.35,
+        "volume": 42131494,
+        "avg_price": 3531.42,
+        "chg": 122.04,
+        "percent": 3.58,
+        "timestamp": 1626071340000,
+        "amount": 744361371,
+        "high": 3531.59,
+        "low": 3530.19,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14111082156,
+          "volume_sum_last": 11948705973
+        }
+      },
+      {
+        "current": 3532.24,
+        "volume": 46899199,
+        "avg_price": 3532.23,
+        "chg": 122.93,
+        "percent": 3.61,
+        "timestamp": 1626071400000,
+        "amount": 940375248,
+        "high": 3532.78,
+        "low": 3531.15,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14157981355,
+          "volume_sum_last": 11994870019
+        }
+      },
+      {
+        "current": 3529.17,
+        "volume": 48239172,
+        "avg_price": 3529.51,
+        "chg": 119.86,
+        "percent": 3.52,
+        "timestamp": 1626071460000,
+        "amount": 924260252,
+        "high": 3532.29,
+        "low": 3529.17,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14206220527,
+          "volume_sum_last": 12041472325
+        }
+      },
+      {
+        "current": 3529.56,
+        "volume": 47138670,
+        "avg_price": 3529.58,
+        "chg": 120.25,
+        "percent": 3.53,
+        "timestamp": 1626071520000,
+        "amount": 901472916,
+        "high": 3529.93,
+        "low": 3528.45,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14253359197,
+          "volume_sum_last": 12086536825
+        }
+      },
+      {
+        "current": 3530.58,
+        "volume": 47923194,
+        "avg_price": 3530.39,
+        "chg": 121.27,
+        "percent": 3.56,
+        "timestamp": 1626071580000,
+        "amount": 897333510,
+        "high": 3530.58,
+        "low": 3529.14,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14301282391,
+          "volume_sum_last": 12134544453
+        }
+      },
+      {
+        "current": 3532.14,
+        "volume": 48248308,
+        "avg_price": 3532.14,
+        "chg": 122.83,
+        "percent": 3.6,
+        "timestamp": 1626071640000,
+        "amount": 884172852,
+        "high": 3532.24,
+        "low": 3530.45,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14349530699,
+          "volume_sum_last": 12176889931
+        }
+      },
+      {
+        "current": 3532.13,
+        "volume": 45513838,
+        "avg_price": 3532.13,
+        "chg": 122.82,
+        "percent": 3.6,
+        "timestamp": 1626071700000,
+        "amount": 837616042,
+        "high": 3532.36,
+        "low": 3531.92,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14395044537,
+          "volume_sum_last": 12221501933
+        }
+      },
+      {
+        "current": 3532.4,
+        "volume": 43966294,
+        "avg_price": 3532.82,
+        "chg": 123.09,
+        "percent": 3.61,
+        "timestamp": 1626071760000,
+        "amount": 796770708,
+        "high": 3532.82,
+        "low": 3531.6,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14439010831,
+          "volume_sum_last": 12264310310
+        }
+      },
+      {
+        "current": 3535.01,
+        "volume": 44585518,
+        "avg_price": 3535.41,
+        "chg": 125.7,
+        "percent": 3.69,
+        "timestamp": 1626071820000,
+        "amount": 830866777,
+        "high": 3535.41,
+        "low": 3532.42,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14483596349,
+          "volume_sum_last": 12306766572
+        }
+      },
+      {
+        "current": 3535.55,
+        "volume": 45304020,
+        "avg_price": 3535.5,
+        "chg": 126.24,
+        "percent": 3.7,
+        "timestamp": 1626071880000,
+        "amount": 796513291,
+        "high": 3535.62,
+        "low": 3534.78,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14528900369,
+          "volume_sum_last": 12352601860
+        }
+      },
+      {
+        "current": 3534.27,
+        "volume": 47036464,
+        "avg_price": 3534.31,
+        "chg": 124.96,
+        "percent": 3.67,
+        "timestamp": 1626071940000,
+        "amount": 853295399,
+        "high": 3535.29,
+        "low": 3534.2,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14575936833,
+          "volume_sum_last": 12396792108
+        }
+      },
+      {
+        "current": 3531.95,
+        "volume": 54097427,
+        "avg_price": 3531.37,
+        "chg": 122.64,
+        "percent": 3.6,
+        "timestamp": 1626072000000,
+        "amount": 1015154984,
+        "high": 3534.8,
+        "low": 3531.31,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14630034260,
+          "volume_sum_last": 12446136622
+        }
+      },
+      {
+        "current": 3532.24,
+        "volume": 59178476,
+        "avg_price": 3532.62,
+        "chg": 122.93,
+        "percent": 3.61,
+        "timestamp": 1626072060000,
+        "amount": 1067982460,
+        "high": 3533.07,
+        "low": 3531.11,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14689212736,
+          "volume_sum_last": 12496195708
+        }
+      },
+      {
+        "current": 3533.28,
+        "volume": 57201290,
+        "avg_price": 3533.27,
+        "chg": 123.97,
+        "percent": 3.64,
+        "timestamp": 1626072120000,
+        "amount": 974625890,
+        "high": 3533.8,
+        "low": 3532.63,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14746414026,
+          "volume_sum_last": 12548324416
+        }
+      },
+      {
+        "current": 3532.9,
+        "volume": 55673234,
+        "avg_price": 3532.71,
+        "chg": 123.59,
+        "percent": 3.63,
+        "timestamp": 1626072180000,
+        "amount": 955715665,
+        "high": 3533.46,
+        "low": 3532.15,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14802087260,
+          "volume_sum_last": 12606270498
+        }
+      },
+      {
+        "current": 3533.31,
+        "volume": 59967826,
+        "avg_price": 3533.38,
+        "chg": 124,
+        "percent": 3.64,
+        "timestamp": 1626072240000,
+        "amount": 1083591922,
+        "high": 3533.61,
+        "low": 3533.13,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14862055086,
+          "volume_sum_last": 12661740908
+        }
+      },
+      {
+        "current": 3533.15,
+        "volume": 59477820,
+        "avg_price": 3533.35,
+        "chg": 123.84,
+        "percent": 3.63,
+        "timestamp": 1626072300000,
+        "amount": 1077688570,
+        "high": 3533.42,
+        "low": 3532.76,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14921532906,
+          "volume_sum_last": 12719671961
+        }
+      },
+      {
+        "current": 3533.44,
+        "volume": 62263379,
+        "avg_price": 3533.86,
+        "chg": 124.13,
+        "percent": 3.64,
+        "timestamp": 1626072360000,
+        "amount": 1051264651,
+        "high": 3534.35,
+        "low": 3533.19,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 14983796285,
+          "volume_sum_last": 12775715542
+        }
+      },
+      {
+        "current": 3533.75,
+        "volume": 59709753,
+        "avg_price": 3533.72,
+        "chg": 124.44,
+        "percent": 3.65,
+        "timestamp": 1626072420000,
+        "amount": 1064072646,
+        "high": 3534.11,
+        "low": 3533.32,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15043506038,
+          "volume_sum_last": 12834262097
+        }
+      },
+      {
+        "current": 3532.65,
+        "volume": 69818111,
+        "avg_price": 3532.65,
+        "chg": 123.34,
+        "percent": 3.62,
+        "timestamp": 1626072480000,
+        "amount": 1311406580,
+        "high": 3533.79,
+        "low": 3532.31,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15113324149,
+          "volume_sum_last": 12893226892
+        }
+      },
+      {
+        "current": 3531.93,
+        "volume": 69669654,
+        "avg_price": 3531.93,
+        "chg": 122.62,
+        "percent": 3.6,
+        "timestamp": 1626072540000,
+        "amount": 1249527500,
+        "high": 3533.07,
+        "low": 3531.93,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15182993803,
+          "volume_sum_last": 12955987701
+        }
+      },
+      {
+        "current": 3531.96,
+        "volume": 76971183,
+        "avg_price": 3531.96,
+        "chg": 122.65,
+        "percent": 3.6,
+        "timestamp": 1626072600000,
+        "amount": 1353579495,
+        "high": 3531.96,
+        "low": 3530.85,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15259964986,
+          "volume_sum_last": 13024878469
+        }
+      },
+      {
+        "current": 3531.38,
+        "volume": 82115770,
+        "avg_price": 3531.38,
+        "chg": 122.07,
+        "percent": 3.58,
+        "timestamp": 1626072660000,
+        "amount": 1404320430,
+        "high": 3532.14,
+        "low": 3531.27,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15342080756,
+          "volume_sum_last": 13098153419
+        }
+      },
+      {
+        "current": 3531.09,
+        "volume": 86042393,
+        "avg_price": 3531.09,
+        "chg": 121.78,
+        "percent": 3.57,
+        "timestamp": 1626072720000,
+        "amount": 1511342586,
+        "high": 3531.35,
+        "low": 3530.21,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15428123149,
+          "volume_sum_last": 13178506285
+        }
+      },
+      {
+        "current": 3530.46,
+        "volume": 91157082,
+        "avg_price": 3530.43,
+        "chg": 121.15,
+        "percent": 3.55,
+        "timestamp": 1626072780000,
+        "amount": 1589639792,
+        "high": 3531.35,
+        "low": 3530.43,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15519280231,
+          "volume_sum_last": 13259593238
+        }
+      },
+      {
+        "current": 3532.05,
+        "volume": 92022818,
+        "avg_price": 3532.05,
+        "chg": 122.74,
+        "percent": 3.6,
+        "timestamp": 1626072840000,
+        "amount": 1645054750,
+        "high": 3532.1,
+        "low": 3530.57,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15611303049,
+          "volume_sum_last": 13354790966
+        }
+      },
+      {
+        "current": 3533.9,
+        "volume": 110097303,
+        "avg_price": 3533.9,
+        "chg": 124.59,
+        "percent": 3.65,
+        "timestamp": 1626072900000,
+        "amount": 1943455869,
+        "high": 3533.9,
+        "low": 3531.59,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15721400352,
+          "volume_sum_last": 13460621868
+        }
+      },
+      {
+        "current": 3533.97,
+        "volume": 127416104,
+        "avg_price": 3533.97,
+        "chg": 124.66,
+        "percent": 3.66,
+        "timestamp": 1626072960000,
+        "amount": 2242951571,
+        "high": 3535.61,
+        "low": 3533.8,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15848816456,
+          "volume_sum_last": 13570595808
+        }
+      },
+      {
+        "current": 3534.49,
+        "volume": 5256900,
+        "avg_price": 3534.83,
+        "chg": 125.18,
+        "percent": 3.67,
+        "timestamp": 1626073020000,
+        "amount": 92259723,
+        "high": 3534.83,
+        "low": 3534.49,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15854073356,
+          "volume_sum_last": 13581125361
+        }
+      },
+      {
+        "current": 3534.49,
+        "volume": 2761330,
+        "avg_price": 3534.49,
+        "chg": 125.18,
+        "percent": 3.67,
+        "timestamp": 1626073080000,
+        "amount": 47887087,
+        "high": 3534.49,
+        "low": 3534.49,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15856834686,
+          "volume_sum_last": 13583816144
+        }
+      },
+      {
+        "current": 3534.49,
+        "volume": 0,
+        "avg_price": 3534.49,
+        "chg": 125.18,
+        "percent": 3.67,
+        "timestamp": 1626073140000,
+        "amount": 0,
+        "high": 3534.49,
+        "low": 3534.49,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 15856834686,
+          "volume_sum_last": 13583816144
+        }
+      },
+      {
+        "current": 3534.76,
+        "volume": 203770162,
+        "avg_price": 3534.76,
+        "chg": 125.45,
+        "percent": 3.68,
+        "timestamp": 1626073200000,
+        "amount": 3500973960,
+        "high": 3534.76,
+        "low": 3534.76,
+        "macd": null,
+        "kdj": null,
+        "ratio": null,
+        "capital": null,
+        "volume_compare": {
+          "volume_sum": 16060604848,
+          "volume_sum_last": 13778111200
+        }
+      }
+    ],
+    "items_size": 242
+  },
+  "error_code": 0,
+  "error_description": ""
+}
+
