@@ -1,0 +1,25 @@
+test_div_data:
+  - [0.2, 0.2, 1]
+  - [0.2, 0.3, 0.66666667]
+  - [4, 2, 2]
+  - [2, 3, 0.66666667]
+  - [2, 0, 0]
+
+test_div_ids:
+  - float1
+  - float2
+  - int1
+  - int2
+  - zero
+
+test_add_data:
+  - [0.1, 0.1, 0.2]
+  - [0.1, 0.2, 0.3]
+  - [1, 2, 3]
+  - [0, 0, 0]
+
+test_add_ids:
+  - float1
+  - float2
+  - int
+  - zero
