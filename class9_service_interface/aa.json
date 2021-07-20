@@ -1,0 +1,38 @@
+{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etNpDDDwAA_MrQPvsWJ39Z0q2Ie5DaHA",
+      "group_name": "group11111",
+      "create_time": 1626437479,
+      "tag": [
+        {
+          "id": "etNpDDDwAAfpaukS4sWqLjZJGChvvagA",
+          "name": "label1",
+          "create_time": 1626437479,
+          "order": 0
+        },
+        {
+          "id": "etNpDDDwAA1VcWK9O2I-3-TKW4PmhDcg",
+          "name": "label2",
+          "create_time": 1626437479,
+          "order": 0
+        },
+        {
+          "id": "etNpDDDwAAOhDtf5aqfJVTw6eWBBMXpQ",
+          "name": "label3",
+          "create_time": 1626437479,
+          "order": 0
+        },
+        {
+          "id": "etNpDDDwAAveNIBSQx1k2baSxL1RAQCA",
+          "name": "label4",
+          "create_time": 1626437479,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
