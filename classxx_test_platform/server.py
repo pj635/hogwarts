@@ -3,9 +3,13 @@ import json
 from flask import Flask, request
 from flask_restful import Resource, Api
 from flask_sqlalchemy import SQLAlchemy
+from flask_cors import CORS
 
 app = Flask(__name__)
 api = Api(app)
+
+# 解决跨域
+CORS(app, supports_credentials=True)
 
 username = "root"
 pwd = "root"
@@ -39,11 +43,12 @@ class Service(Resource):
         if filter_id is not None:
             data = Testcase.query.filter_by(id = filter_id).first()
             app.logger.info("query data:%s", data)
-            responce = [(data.id, data.node_id, data.remark)]
+            responce = [{'id': data.id, 'node_id': data.node_id, 'remark': data.remark}]
             app.logger.info(responce)
+
         else:
             data = Testcase.query.all()
-            responce = [(i.id, i.node_id, i.remark) for i in data]
+            responce = [{'id': i.id, 'node_id': i.node_id, 'remark': i.remark} for i in data]
             app.logger.info(responce)
         return {"error": 0, "msg": {"data": responce}}
 
@@ -65,6 +70,8 @@ class Service(Resource):
 
     def delete(self):
         filter_id = request.args.get("id")
+        print(filter_id)
+        print(request.args)
         if filter_id is None:
             return {"error": 40001, "msg": "delete a testcase info failed and the value of id is None"}
         Testcase.query.filter_by(id = filter_id).delete()

@@ -12,9 +12,26 @@ class Testcase:
         print(responce.status_code)
 
     def test_post(self):
-        data = {"id": 1, "node_id": "1", "remark": "testcase1"}
-        responce = requests.post(self.url, json = data)
-        print(responce.status_code)
+        # data = {"id": 1, "node_id": "1", "remark": "testcase1"}
+        # responce = requests.post(self.url, json = data)
+        # print(responce.status_code)
+
+        data = {"id": 1, "node_id": 1, "remark": "testcase1"}
+        responce = requests.post(self.url, json=data)
+        data = {"id": 2, "node_id": 2, "remark": "testcase1"}
+        responce = requests.post(self.url, json=data)
+        data = {"id": 3, "node_id": 3, "remark": "testcase1"}
+        responce = requests.post(self.url, json=data)
+        data = {"id": 4, "node_id": 4, "remark": "testcase1"}
+        responce = requests.post(self.url, json=data)
+        data = {"id": 5, "node_id": 5, "remark": "testcase1"}
+        responce = requests.post(self.url, json=data)
+        data = {"id": 6, "node_id": 6, "remark": "testcase1"}
+        responce = requests.post(self.url, json=data)
+        data = {"id": 7, "node_id": 7, "remark": "testcase1"}
+        responce = requests.post(self.url, json=data)
+        data = {"id": 8, "node_id": 8, "remark": "testcase1"}
+        responce = requests.post(self.url, json=data)
 
     def test_post2(self):
         data = {"id": 10, "node_id": ['1', '2'], "remark": "testcase1"}
