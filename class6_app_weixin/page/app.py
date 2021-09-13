@@ -9,7 +9,6 @@ from class6_app_weixin.page.main_page import MainPage
 class App(BasePage):
 
     def start(self):
-        print(self.driver)
         if self.driver == None:
             desired_caps = {}
             desired_caps['platformName'] = 'Android'
@@ -18,7 +17,7 @@ class App(BasePage):
             desired_caps['unicodeKeyBoard'] = 'true'
             desired_caps['resetKeyBoard'] = 'true'
             desired_caps['appPackage'] = 'com.tencent.wework'
-            desired_caps['appActivity'] = '.launch.WwMainActivity'
+            desired_caps['appActivity'] = '.launch.LaunchSplashActivity'
             desired_caps['autoGrantPermissions'] = 'true'
             desired_caps['dontStopAppOnReset'] = 'true'
 
@@ -31,23 +30,22 @@ class App(BasePage):
             print("\n直接launch app")
 
         locator = (MobileBy.XPATH, "//*[@text='微信登录']")
-        ele = WebDriverWait(self.driver, 20, ).until(expected_conditions.element_to_be_clickable(locator))
+        ele = WebDriverWait(self.driver, 50, ).until(expected_conditions.element_to_be_clickable(locator))
         ele.click()
         locator = (MobileBy.XPATH, "//*[@text='同意']")
-        ele = WebDriverWait(self.driver, 20, ).until(expected_conditions.element_to_be_clickable(locator))
+        ele = WebDriverWait(self.driver, 50, ).until(expected_conditions.element_to_be_clickable(locator))
         ele.click()
         locator = (MobileBy.XPATH, "//*[@text='进入']")
-        ele = WebDriverWait(self.driver, 20,).until(expected_conditions.element_to_be_clickable(locator))
+        ele = WebDriverWait(self.driver, 50,).until(expected_conditions.element_to_be_clickable(locator))
         ele.click()
 
         return self
 
-    def restart(self):
-        self.driver.close_app()
-        self.driver.launch_app()
+    def close(self):
+        self.driver.close_app() #后台运行
 
     def stop(self):
-        self.driver.quit()
+        self.driver.quit() #销毁driver
 
     def goto_main(self):
         return MainPage(self.driver)

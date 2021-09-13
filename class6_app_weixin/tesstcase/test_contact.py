@@ -15,8 +15,7 @@ class TestContact():
         self.main = self.app.start().goto_main()
 
     def teardown(self):
-        pass
-        #self.app.restart()
+        self.app.close()
 
     def test_contact1(self):
         name, phone_number = self.faker.name(), self.faker.phone_number()
