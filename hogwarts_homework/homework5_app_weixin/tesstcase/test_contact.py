@@ -27,3 +27,5 @@ class TestContact():
         name, phone_number = self.faker.name(), self.faker.phone_number()
         self.main.goto_contact().goto_add_member().\
             goto_edit_member().edit_member(name, phone_number).find_toast()
+
+
