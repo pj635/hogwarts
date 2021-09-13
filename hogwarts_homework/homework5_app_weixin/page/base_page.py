@@ -13,7 +13,7 @@ class BasePage():
         self.driver.implicitly_wait(2)
         for i in range(times):
             try:
-                ele = self.driver.find_element(*locator)
+                ele = self.find(*locator)
                 self.driver.implicitly_wait(20)
                 return ele  # 找到指定的元素
             except NoSuchElementException:
@@ -21,3 +21,7 @@ class BasePage():
             self.driver.swipe(x, y_start, x, y_end, duration=2000)  # 未找到指定元素，向下滑动
         self.driver.implicitly_wait(20)
         raise NoSuchElementException("find the element %d times, and find failed")  # 查找元素失败，抛出异常
+
+    #封装find方法
+    def find(self, by, value):
+        return self.driver.find_element(by, value)

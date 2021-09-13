@@ -20,12 +20,14 @@ class TestContact():
 
     def test_contact1(self):
         name, phone_number = self.faker.name(), self.faker.phone_number()
-        self.main.goto_contact().goto_add_member().\
-            goto_edit_member().edit_member(name, phone_number).find_toast()
+        toast = self.main.goto_contact().goto_add_member().\
+            goto_edit_member().edit_member(name, phone_number).find_toast("添加成功")
+        assert "成功" in toast
 
     def test_contact2(self):
         name, phone_number = self.faker.name(), self.faker.phone_number()
-        self.main.goto_contact().goto_add_member().\
-            goto_edit_member().edit_member(name, phone_number).find_toast()
+        toast = self.main.goto_contact().goto_add_member(). \
+            goto_edit_member().edit_member(name, phone_number).find_toast("添加成功")
+        assert "成功" in toast
 
 
