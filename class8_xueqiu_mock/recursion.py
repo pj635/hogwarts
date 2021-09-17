@@ -1,17 +1,17 @@
 import json
 
 
-def recrusion(data):
+def recrusion(data, mul):
     if isinstance(data, dict):
         for k, v in data.items():
-            data[k] = recrusion(v)
+            data[k] = recrusion(v, mul)
 
     elif isinstance(data, float):
-        data *= 2
+        data *= mul
 
     elif isinstance(data, list):
         for i in data:
-            recrusion(i)
+            recrusion(i, mul)
 
     else:
         data = data

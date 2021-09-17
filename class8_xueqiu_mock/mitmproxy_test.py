@@ -1,8 +1,9 @@
 import json
-import sys
 
 import mitmproxy.http
 from mitmproxy import http
+
+from class8_xueqiu_mock.recursion import recrusion
 
 
 class Events:
@@ -37,6 +38,11 @@ class Events:
             data['data']['items'][2]['actissqty'] = 9999999999999999
             flow.response.text = json.dumps(data)
 
+        if 'https://xueqiu.com/service/v5/stock/screener/quote/list' in flow.request.url:
+            #实现浮点数据的倍增
+            data = json.loads(flow.response.text)
+            data = recrusion(data, 100)
+            flow.response.text = json.dumps(data)
 
 
     def error(self, flow: mitmproxy.http.HTTPFlow):
