@@ -11,7 +11,7 @@ def recrusion(data, mul):
 
     elif isinstance(data, list):
         for i in data:
-            recrusion(i, mul)
+            data = recrusion(i, mul)
 
     else:
         data = data
